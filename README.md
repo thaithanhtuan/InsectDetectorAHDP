@@ -3,15 +3,15 @@ This respository is created for the paper: High-Precision Detection of Homona Ma
 
 <div align="center">
   
-  <img src="image/Flow data.drawio.png" width="100%" />
-	<p>Flow diagram of the system.</p>
+  <img src="image/Graphical Abstract.drawio.png" width="100%" />
+	<p>Graphical Abstract.</p>
 </div>
 
 
 # Google drive link to Phenomics Lab Tree Instance Segmentation (PTIS) dataset
 
 <div align="center">
-  	<img src="image/System design.drawio.png" width="100%" />
+  	<img src="image/Preprocessing.png" width="100%" />
 	<p>Preprocesing data pipeline.</p>
 </div>
 
