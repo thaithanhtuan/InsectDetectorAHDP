@@ -16,7 +16,7 @@ This respository is created for the paper: High-Precision Detection of Homona Ma
 </div>
 
 All Preproceeded data for training:
-https://drive.google.com/drive/folders/1WI0f6gFPnn5hUlz5fWgW5ueEyWHLOFR1?usp=sharing
+https://drive.google.com/drive/folders/1NX6_uJpPUABk7d0NakaLj9kD3N5wpoKI?usp=sharing
 
 <div align="center">
   	<img src="image/Deployment diagram.drawio.png" width="100%" />
@@ -83,30 +83,19 @@ wheel              0.40.0
 yolo2labelme       0.0.4
 
 
-# Pretrained model of YOLOv8 Tree Instance Segmentation
-You can download pretrained model from here: https://drive.google.com/file/d/1EhHSaNd_ub0rhQwWq53aIIarpWVgUayd/view?usp=sharing
-
-
-# Spatial Transformer Network
-<div align="center">
-  	<img src="image/STN.drawio.png" width="100%" />
-	<p>Network architecture of Spatial Transformer Network.</p>
-</div>
+# Pretrained model of YOLOv11 
+You can download pretrained model from here: https://drive.google.com/file/d/1mvm33mm974NCv0KOQbhKAXF-0yr6sov7/view?usp=sharing
 
 
 # Citation
 If this code helps your research, please cite our paper:
 
 	@inproceedings{thaiplantphenomics,
-		title={Automated Detection and Temporal Analysis of Adoxophyes honmai Using YOLOv11 and Spatial Transformer Networks in Orchard Environments},
+		title={High-Precision Detection of Homona Magnanima and Adoxophyes Honmai in Mandarin Orchards Using Deep Learning},
 		author={Soon Hwa Kwon, Yong Suk Chung, Jinhyun Ahn, Kyung Jin Park, and Thanh Tuan Thai},
 		booktitle={},
 		pages={},
 		year={}
 	}
-
-# Acknowledgement
-This implementation of STN is largely based on the PyTorch implementation of [CP-VTON](https://github.com/sergeywong/cp-vton). We are extremely grateful for their public implementation.
-
 # License
 ADOXMonitoring is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the [license](./LICENSE) for further details. For commercial queries, please contact [Prof.Yong Suk Chung](mailto:yschung@jejunu.ac.kr).
